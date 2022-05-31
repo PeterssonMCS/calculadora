@@ -1,0 +1,18 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:orangered;
+}
+
+#teclado{
+    width: 200px;
+    height:200px;
+    display: grid;
+    grid-template-columns:25% 25% 25% 25%;
+    grid-template-rows: 25% 25% 25% 25%;
+}
+
+.botoes{
+    width :50px;
+    height : 50px;
+    background-color: white;
+}
